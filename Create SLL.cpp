@@ -136,3 +136,35 @@ void SLL::addbypos(int pos,int x)
 		q->next=p;
 	}
 }
+**********************
+output:
+
+Enter List
+
+ Enter number of nodes : 4
+
+ Enter data : 10
+
+ Enter data : 20
+
+ Enter data : 30
+
+ Enter data : 40
+
+Showing List:
+10 20 30 40
+ Enter position to add data : 3
+
+ Enter data to by position : 100
+
+ List after addbypos : 10 20 100 30 40
+--------------------------------
+
+
+
+
+
+
+
+
+
